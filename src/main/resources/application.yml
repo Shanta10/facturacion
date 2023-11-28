@@ -18,6 +18,6 @@ spring:
   datasource:
     url: jdbc:postgresql://peanut.db.elephantsql.com:5432/nlrnsvbo?socketTimeout=3
     username: nlrnsvbo
-    password: 0KWydjLG8QhFlXhMJHHltb8WuxBOcCzJ
+    password: 0KWydjLG8QhFlXhMJHHltb8WuxBOcCzJghostbounty
     driverClassName: org.postgresql.Driver
 
